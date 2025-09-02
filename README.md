@@ -16,7 +16,7 @@ We've had a bit of trouble with our patented conveyor belt system, so before you
 
 To get you going, we've got a backend just chock full of sushi just waiting to be eaten! To get get these guys, you're going to have to do the follow:
 
-1. Navigate to `activants-react-specific-interview` and run `json-server --watch db.json`
+1. Navigate to `activants-interview-assessment` and run `json-server --watch db.json`
 2. Navigate to [http://localhost:3000/sushis](http://localhost:3000/sushis) to confirm delivery of sushi!
 
 ### Client
